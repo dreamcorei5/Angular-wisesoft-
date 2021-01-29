@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "หน้าหลัก",
+    "url": "/home"
+  },
+  {
+    "id": 2,
+    "name": "จัดเตรียมข้อมูลแบบ",
+    "url": "/manageData"
+  },
+  {
+    "id": 3,
+    "name": "โอนย้าย",
+    "url": "/transport"
+  },
+  {
+    "id": 4,
+    "name": "สำรองข้อมูล",
+    "url": "backup"
+  },
+  {
+    "id": 5,
+    "name": "ตั้งค่า",
+    "url": "setting"
+  },
+  {
+    "id": 6,
+    "name": "แนะนำการใช้งาน",
+    "url": "recommended"
+  },
+  {
+    "id": 7,
+    "name": "เกี่ยวกับ",
+    "url": "about"
+  },
+  {
+    "id": 8,
+    "name": "อัพเดต",
+    "url": "update"
+  }
+]
